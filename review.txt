@@ -1,0 +1,17 @@
+My Cracking the coding interview system:
+
+Every week I will go through one chapter from chapter 1 to the moderate and hard problems.
+I will do a problem or two a day and when I do the problem I will solve on my own first then go and read the solution 
+to the problem to see if I match or not or if I can optomize my solution.
+
+Problems I should go through again:
+Arrays & Strings:
+    1.3
+    1.7
+    1,8
+    1.9
+
+Linked Lists:
+    2.3
+    2.4
+    
