@@ -13,5 +13,5 @@ Arrays & Strings:
 
 Linked Lists:
     2.3
-    2.4
+    
     
